@@ -5,14 +5,14 @@ The idea is implemented using Graph and Heap data structures. The graph has node
 By using different algorithms like Dijkstra, breadth-first search, depth-first search, etc, the shortest path between the source station and the destination station is determined.According to the distance the fare is calculated
 
 
-In metro.java
+In metro.java :
 ArrayList
 LinkedList
 Stack
 HashMap
 
 
-In Heap.java
+In Heap.java :
 HashMap
 ArrayList
 
